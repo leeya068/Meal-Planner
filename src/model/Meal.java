@@ -21,7 +21,7 @@ public class Meal {
         return abbreviated ? abbreviation : name;
     }
 
-    // Getters and Setters
+    // Getters
     public String getName() { return name; }
     public String getAbbreviation() { return abbreviation; }
     public int getStartHour() { return startHour; }

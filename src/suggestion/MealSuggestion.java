@@ -9,6 +9,5 @@ public abstract class MealSuggestion {
         this.meal = meal;
     }
 
-    // Abstract method to provide suggestion
     public abstract String suggestMealItem();
 }

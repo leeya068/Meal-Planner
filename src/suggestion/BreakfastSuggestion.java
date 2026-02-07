@@ -1,7 +1,8 @@
 package suggestion;
 
-import model.Meal;
 import java.util.List;
+
+import model.Meal;
 
 public class BreakfastSuggestion extends MealSuggestion {
 
