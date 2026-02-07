@@ -1,4 +1,4 @@
-MealPlanner is a Java application that determines the type of meal based on the current hour. It allows users to see full or abbreviated meal names, add custom meal schedules, and optionally get meal suggestions. The project showcases **object-oriented programming (OOP)** concepts, **switch expressions**, and **modular, extendable design**.
+MealPlanner is a Java application that determines the meal type based on the current hour. It allows users to see full or abbreviated meal names, add custom meal schedules, and optionally get meal suggestions. The project showcases **object-oriented programming (OOP)** concepts, **switch expressions**, and **modular, extendable design**.
 
 ## Features
 - Determine meal type based on 24-hour time.
@@ -21,4 +21,4 @@ MealPlanner is a Java application that determines the type of meal based on the 
 - `MealScheduler`: Holds meal types and determines the current meal.
 - `UserInputHandler`: Handles user input and validation.
 - `MealPlannerApp`: Main application class (CLI or GUI interface).
-- `MealSuggestion` *(optional)*: Provides meal item suggestions.
+- `MealSuggestion`: Provides meal item suggestions.
